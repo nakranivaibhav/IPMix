@@ -1,5 +1,3 @@
-Sure, here's a simple and easy-to-understand README for your PyTorch implementation of the IPMix paper:
-
 # IPMix: Label-Preserving Data Augmentation for Robust Classifiers
 
 This repository contains a PyTorch implementation of the IPMix data augmentation method proposed in the paper "IPMix: Label-Preserving Data Augmentation Method for Training Robust Classifiers." IPMix is a novel approach that integrates three levels of data augmentation techniques (image-level, patch-level, and pixel-level) into a single framework to improve the robustness and accuracy of deep neural network classifiers.
